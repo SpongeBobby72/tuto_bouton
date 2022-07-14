@@ -6,10 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div class="wrapper">
-          <Bouton_suivant />
-        </div>
+        <h1>Tuto bouton</h1>
       </header>
+      <div class="wrapper">
+        <Bouton_suivant />
+      </div>
     </div>
   );
 }
