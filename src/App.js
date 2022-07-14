@@ -8,9 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Tuto bouton</h1>
       </header>
-      <div class="wrapper">
-        <Bouton_suivant />
-      </div>
+      <Bouton_suivant />
     </div>
   );
 }
