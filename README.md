@@ -1,4 +1,4 @@
-# Tuto Bouton
+# Bouton Suivant
 
 Un bouton suivant animé avec du CSS.
 
